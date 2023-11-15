@@ -1,2 +1,2 @@
-Hello World
-Hello Odin
+Hello World!
+Hello Odin!
